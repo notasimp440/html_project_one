@@ -1,0 +1,33 @@
+div{
+    background-color:red;
+}
+header{
+    display:block;
+}
+header>img{
+    width:430px;
+    height:300px;
+    display: block;
+    margin-left:0px;
+}
+
+.formatStart{
+    margin-left:130px;
+}
+
+p{
+    border-color:black;
+    border:1px;
+    border-width:2px;
+    border-style:solid;
+    margin-right:0px;
+    padding:5px;
+    word-wrap:normal;
+}
+
+.rightSide{
+    float:right;
+}
+.leftSide{
+    float:left;
+}
